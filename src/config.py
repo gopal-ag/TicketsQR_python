@@ -1,0 +1,6 @@
+INPUT_FILE_PATH = '/Users/gopalagarwal/Downloads/qrCode_ticket-master/input.xlsx'
+OUTPUT_FILE_PATH = '/Users/gopalagarwal/Downloads/qrCode_ticket-master/output.xlsx'
+ADMIN_PASSWORD = '1234'
+DOMAIN_NAME = 'http://127.0.0.1:8000'
+PAGE_TITLE = 'QR Ticket'
+EVENT_NAME = 'Taj Mahal'
